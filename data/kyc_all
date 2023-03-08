@@ -3,12 +3,12 @@
     "response": {
         "projects": [
             {
-                "Modified Date": 1678244326038,
+                "Modified Date": 1678245421638,
                 "Created Date": 1678243480320,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 3",
                 "KYC V1 Complete": true,
-                "KYC V2 Complete": false,
+                "KYC V2 Complete": true,
                 "Name": "Urban Monkeys",
                 "policy_ids": [],
                 "Project_UID": "1678113559711x303590615773347840",
@@ -306,11 +306,12 @@
                 "_id": "1678243722289x142694233880841680"
             },
             {
-                "Modified Date": 1678243732889,
+                "Modified Date": 1678244573802,
                 "Created Date": 1678243732843,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Mad Ape Syndicate",
                 "policy_ids": [
                     "Arrest Warrant: 3f788a7c5917da8f4c349798a4df3a2f24e5e9004d9062975b9f45b8",
@@ -322,22 +323,24 @@
                 "_id": "1678243732796x380124048104346200"
             },
             {
-                "Modified Date": 1678243743491,
+                "Modified Date": 1678244584092,
                 "Created Date": 1678243743472,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Fabricity ",
                 "policy_ids": [],
                 "Project_UID": "1670403257630x347780994760441860",
                 "_id": "1678243743381x146591034864120400"
             },
             {
-                "Modified Date": 1678243754089,
+                "Modified Date": 1678244594530,
                 "Created Date": 1678243754043,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Bored Elizabeth II Palace Club ♔",
                 "policy_ids": [
                     "d661f3c83356c16f37371c452c9c5e76da4889945c1b601b5a7b03d2"
@@ -346,44 +349,48 @@
                 "_id": "1678243753999x628548549450513900"
             },
             {
-                "Modified Date": 1678243764520,
+                "Modified Date": 1678244604739,
                 "Created Date": 1678243764474,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Time Shifters",
                 "policy_ids": [],
                 "Project_UID": "1670247052662x542825887745703940",
                 "_id": "1678243764425x694261990724638300"
             },
             {
-                "Modified Date": 1678243774944,
+                "Modified Date": 1678244614931,
                 "Created Date": 1678243774892,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "The Collector's Club",
                 "policy_ids": [],
                 "Project_UID": "1670105841226x351108418584444900",
                 "_id": "1678243774839x750670406706618100"
             },
             {
-                "Modified Date": 1678243785317,
+                "Modified Date": 1678244625333,
                 "Created Date": 1678243785268,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Kabuki Tokyo",
                 "policy_ids": [],
                 "Project_UID": "1670075944249x393347998436818940",
                 "_id": "1678243785224x674548243795290800"
             },
             {
-                "Modified Date": 1678243795766,
+                "Modified Date": 1678244636073,
                 "Created Date": 1678243795720,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Generation ZETA",
                 "policy_ids": [
                     "9a54078f9ce9b48d6a0775a6c773dd9d37714e9804e0b33618fd3ed5"
@@ -392,11 +399,12 @@
                 "_id": "1678243795673x983716369323227600"
             },
             {
-                "Modified Date": 1678243806262,
+                "Modified Date": 1678244646362,
                 "Created Date": 1678243806212,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Plot Cartel",
                 "policy_ids": [
                     "e00a8eaa211ab17b82ea9cb21e36eb45673b6a8a7339bac14c9a6856"
@@ -405,11 +413,12 @@
                 "_id": "1678243806161x192445908586512220"
             },
             {
-                "Modified Date": 1678243816872,
+                "Modified Date": 1678244656579,
                 "Created Date": 1678243816816,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Brave Dogs",
                 "policy_ids": [
                     "N/A"
@@ -418,22 +427,24 @@
                 "_id": "1678243816809x277854703867517220"
             },
             {
-                "Modified Date": 1678244174822,
+                "Modified Date": 1678244666931,
                 "Created Date": 1678244174820,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Porco Credit ",
                 "policy_ids": [],
                 "Project_UID": "1669929431417x552168533704310800",
                 "_id": "1678244174733x843891442445130900"
             },
             {
-                "Modified Date": 1678244185297,
+                "Modified Date": 1678244677269,
                 "Created Date": 1678244185295,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Steve3p_0",
                 "policy_ids": [
                     "e1fe46daa3df9ef1ea255730b135e06b15532db56200c574261015a5",
@@ -443,11 +454,12 @@
                 "_id": "1678244185252x224274263570555460"
             },
             {
-                "Modified Date": 1678244196042,
+                "Modified Date": 1678244687480,
                 "Created Date": 1678244196040,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Zea Merch Basho",
                 "policy_ids": [
                     "14216b0220db26ce69b4cb5a11deb1a0d55a0f1a9dd195cbff2953de"
@@ -456,33 +468,36 @@
                 "_id": "1678244195993x424169516026484600"
             },
             {
-                "Modified Date": 1678244206604,
+                "Modified Date": 1678244697759,
                 "Created Date": 1678244206602,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Goombles",
                 "policy_ids": [],
                 "Project_UID": "1669920152220x176029546505568260",
                 "_id": "1678244206553x918719663887755500"
             },
             {
-                "Modified Date": 1678244217037,
+                "Modified Date": 1678244708201,
                 "Created Date": 1678244217035,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Cardano Canines",
                 "policy_ids": [],
                 "Project_UID": "1669918372153x506240960341213200",
                 "_id": "1678244216990x335744497255449700"
             },
             {
-                "Modified Date": 1678244227386,
+                "Modified Date": 1678244718564,
                 "Created Date": 1678244227385,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "The CNFT Vault ",
                 "policy_ids": [
                     "38179fb3288280f9c0f01ef3e68184ee9a267a4b897c94a8da052425",
@@ -492,11 +507,12 @@
                 "_id": "1678244227375x167204458912539870"
             },
             {
-                "Modified Date": 1678244237966,
+                "Modified Date": 1678244728798,
                 "Created Date": 1678244237965,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "The Order of the Kraken",
                 "policy_ids": [
                     "0ac726f5135a180f5f87a0e81b585a28a9d4009f33559938026ac671"
@@ -505,11 +521,12 @@
                 "_id": "1678244237859x276165748951738620"
             },
             {
-                "Modified Date": 1678244248455,
+                "Modified Date": 1678244739003,
                 "Created Date": 1678244248453,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Gecko House",
                 "policy_ids": [
                     "TBA"
@@ -518,11 +535,12 @@
                 "_id": "1678244248405x604991984381255400"
             },
             {
-                "Modified Date": 1678244259277,
+                "Modified Date": 1678244749394,
                 "Created Date": 1678244259276,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "JAR Heads",
                 "policy_ids": [
                     "eba255af1c4234ea258d3d0ef1ae3bc715432de4b3e6ba481214a4ca"
@@ -531,22 +549,24 @@
                 "_id": "1678244259195x470039377149999300"
             },
             {
-                "Modified Date": 1678244269568,
+                "Modified Date": 1678244759818,
                 "Created Date": 1678244269566,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "LEAP WORLD",
                 "policy_ids": [],
                 "Project_UID": "1669896543461x762741453129252900",
                 "_id": "1678244269522x386128192695343700"
             },
             {
-                "Modified Date": 1678244280095,
+                "Modified Date": 1678244770014,
                 "Created Date": 1678244280093,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Zeitaku Dragonz",
                 "policy_ids": [
                     "Later"
@@ -555,11 +575,12 @@
                 "_id": "1678244280077x181986693669040420"
             },
             {
-                "Modified Date": 1678244290667,
+                "Modified Date": 1678244780400,
                 "Created Date": 1678244290666,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "ROBOROBO",
                 "policy_ids": [
                     "ROBOROBO GENESIS - Season 1 CNFTs: f4db6ebd66ca30d3c49af3aa4285b08c64f4cb3f53790d0f760e09fc ROBOROBO ZIGMIT - Season 2 CNFTs: e4a1287629574fe5dd8025c3c6569680e0e6e883a2d8e9e48a516d2a $ROBO Token: 6394b7c94d47d97761ca8007e3498eef419cddfbea088d1eda20bd12 ROBOROBO ODYSSEY - CHAPTER 01 - c4bd2c48f12ae8c050e6bfda8ef62b111aeed43eb6738ba69032b7a5"
@@ -592,6 +613,46 @@
                 ],
                 "Project_UID": "1669884202558x407775376212754400",
                 "_id": "1678244311913x474705913933719300"
+            },
+            {
+                "Modified Date": 1678244811548,
+                "Created Date": 1678244811546,
+                "Created By": "1673439371808x662350579525307800",
+                "KYC Tier": "Tier 1",
+                "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
+                "Name": "DLoux",
+                "policy_ids": [
+                    "TBC"
+                ],
+                "Project_UID": "1669854202743x415751181823377400",
+                "_id": "1678244811503x783256447462375200"
+            },
+            {
+                "Modified Date": 1678244821846,
+                "Created Date": 1678244821844,
+                "Created By": "1673439371808x662350579525307800",
+                "KYC Tier": "Tier 1",
+                "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
+                "Name": "Good Droids",
+                "policy_ids": [
+                    "N/A yet, Mint Details TBD"
+                ],
+                "Project_UID": "1669853580726x272628671059329020",
+                "_id": "1678244821799x803297984650085100"
+            },
+            {
+                "Modified Date": 1678244832234,
+                "Created Date": 1678244832232,
+                "Created By": "1673439371808x662350579525307800",
+                "KYC Tier": "Tier 1",
+                "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
+                "Name": "Royal Chess Club",
+                "policy_ids": [],
+                "Project_UID": "1669852986962x211232293249351700",
+                "_id": "1678244832186x730183041724510100"
             }
         ]
     }
