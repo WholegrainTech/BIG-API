@@ -236,11 +236,12 @@
                 "_id": "1678243669871x558570383151242750"
             },
             {
-                "Modified Date": 1678243680403,
+                "Modified Date": 1678244521871,
                 "Created Date": 1678243680348,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "The Armadillo Order",
                 "policy_ids": [
                     "Taogrant: 5144691b96084ce56dec43c401ef0bfa5cf84bf72a76fce96ed9672d",
@@ -250,11 +251,12 @@
                 "_id": "1678243680280x343801187437329500"
             },
             {
-                "Modified Date": 1678243690949,
+                "Modified Date": 1678244532371,
                 "Created Date": 1678243690879,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Ad Astrium",
                 "policy_ids": [
                     "008102e7133691f0dbe75ceb07756386d426626e20ae28e05651af59"
@@ -263,11 +265,12 @@
                 "_id": "1678243690855x946736914229343600"
             },
             {
-                "Modified Date": 1678243701492,
+                "Modified Date": 1678244542908,
                 "Created Date": 1678243701442,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Jetplane",
                 "policy_ids": [
                     "2a7b75c1510c0df28b3dc88c6f13974c0fa42f6da17b6738401c83cd"
@@ -276,22 +279,24 @@
                 "_id": "1678243701396x697771730380796200"
             },
             {
-                "Modified Date": 1678243711861,
+                "Modified Date": 1678244553104,
                 "Created Date": 1678243711810,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "United Fox Terra Squad",
                 "policy_ids": [],
                 "Project_UID": "1670597588349x442322820968742900",
                 "_id": "1678243711762x515728895152176600"
             },
             {
-                "Modified Date": 1678243722431,
+                "Modified Date": 1678244563591,
                 "Created Date": 1678243722339,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
+                "KYC V2 Complete": false,
                 "Name": "Her Monsters",
                 "policy_ids": [
                     "5cf33cfea1b37c289060f55fa09c1fb3b9cb6972e40d9ed2f94a5ada",
