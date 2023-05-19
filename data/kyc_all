@@ -507,15 +507,18 @@
                 "_id": "1678244227375x167204458912539870"
             },
             {
-                "Modified Date": 1678244728798,
+                "Modified Date": 1684416555655,
                 "Created Date": 1678244237965,
                 "Created By": "1673439371808x662350579525307800",
                 "KYC Tier": "Tier 1",
                 "KYC V1 Complete": true,
-                "KYC V2 Complete": false,
+                "KYC V2 Complete": true,
                 "Name": "The Order of the Kraken",
                 "policy_ids": [
-                    "0ac726f5135a180f5f87a0e81b585a28a9d4009f33559938026ac671"
+                    "0ac726f5135a180f5f87a0e81b585a28a9d4009f33559938026ac671",
+                    "716767d73ca9465111d63c06e15701f9c8c20c50e1d78d416abe9901",
+                    "43528549ec02054e09bcdadb34d27fcf18f699f1e925a86afd483066",
+                    "5cab191ab23ebf4c37964acdd686b33c1567eb658ca7d431d9709a28"
                 ],
                 "Project_UID": "1669914068312x474773008176644100",
                 "_id": "1678244237859x276165748951738620"
